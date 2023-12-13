@@ -1,0 +1,6 @@
+framework module DCOrderKit {
+  umbrella header "DCOrderKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

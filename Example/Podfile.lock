@@ -1,0 +1,16 @@
+PODS:
+  - DCOrderKit (0.1.0)
+
+DEPENDENCIES:
+  - DCOrderKit (from `../`)
+
+EXTERNAL SOURCES:
+  DCOrderKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DCOrderKit: 86d3001bdd858bfb4e566ad8051ba4d8ba33cd88
+
+PODFILE CHECKSUM: 920e76d47fb6771e605b1282c85a224b942bbc6f
+
+COCOAPODS: 1.12.1
